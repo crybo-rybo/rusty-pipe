@@ -19,7 +19,7 @@ A high-performance hybrid Computer Vision pipeline leveraging **Python** for mac
 
 1. **Clone the repository:**
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/crybo-rybo/rusty-pipe.git
    cd rusty-pipe
    ```
 
